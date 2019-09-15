@@ -2,6 +2,8 @@
 Programme for replace opcode in binary file 
 
 # Keys:
-*-c* -opcode for replace
-*-p* -offset 
-*-f* -name binary file
+**-c** -opcode for replace
+
+**-p** -offset 
+
+**-f** -name binary file
